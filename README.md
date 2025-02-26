@@ -11,6 +11,7 @@ This repository contains information and proofs of concept (PoCs) for the CVEs I
 | [CVE-2024-53357](https://github.com/Elymaro/CVE/blob/main/EasyVirt/CVE-2024-53357.md)| Sensitive Data Exposure | DCScope <= 8.6.0 / Co2Scope <= 1.3.0 |
 | [CVE-2024-55062](https://github.com/Elymaro/CVE/blob/main/EasyVirt/CVE-2024-55062.md)| Remote Code Execution (Unauthenticated) | DCScope <= 8.6.0 / Co2Scope <= 1.3.0 |
 | [CVE-2024-57587](https://github.com/Elymaro/CVE/blob/main/EasyVirt/CVE-2024-57587.md)| Multiple SQL Injection (Unauthenticated) | DCScope <= 8.6.0 / Co2Scope <= 1.3.0 |
+| [CVE-2024-55064](https://github.com/Elymaro/CVE/blob/main/EasyVirt/CVE-2024-55064.md)| Multiple Stored XSS | DC NetScope <= 8.6.4 |
 
 
 ### 2. [GreaterWMS](https://github.com/GreaterWMS/GreaterWMS)
