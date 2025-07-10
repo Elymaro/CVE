@@ -20,3 +20,8 @@ This repository contains information and proofs of concept (PoCs) for the CVEs I
 | CVE ID       | Vulnerabilty           | Product               |
 |--------------|------------------------|-----------------------|
 | [CVE-2025-26201](https://github.com/Elymaro/CVE/blob/main/GreaterWMS/CVE-2025-26201.md)| Authentication Bypass via Credential Disclosure  | GreaterWMS <= 2.1.49 |
+
+### 3. [Wordpress](https://wordpress.org/)
+| CVE ID       | Vulnerabilty           | Product               |
+|--------------|------------------------|-----------------------|
+| [CVE-2025-6716](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/contest-gallery/contest-gallery-2608-authenticated-author-stored-cross-site-scripting)| Stored XSS | (plugin) [contest-gallery](https://wordpress.org/plugins/contest-gallery/) <= 26.0.8 |
