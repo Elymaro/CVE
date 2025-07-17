@@ -25,3 +25,8 @@ This repository contains information and proofs of concept (PoCs) for the CVEs I
 | CVE ID       | Vulnerabilty           | Product               |
 |--------------|------------------------|-----------------------|
 | [CVE-2025-6716](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/contest-gallery/contest-gallery-2608-authenticated-author-stored-cross-site-scripting)| Stored XSS | (plugin) [contest-gallery](https://wordpress.org/plugins/contest-gallery/) <= 26.0.8 |
+| [CVE-2025-6717](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/b1-accounting/b1lt-for-woocommerce-2256-authenticated-subscriber-sql-injection)| SQL Injection | (plugin) [b1-accounting](https://wordpress.org/plugins/b1-accounting/) <= 2.2.56 |
+| [CVE-2025-6718](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/b1-accounting/b1lt-for-woocommerce-2256-missing-authorization-to-authenticated-subscriber-arbitrary-sql-injection)| Broken Access Control + SQL Injection | (plugin) [b1-accounting](https://wordpress.org/plugins/b1-accounting/) <= 2.2.56 |
+| [CVE-2025-6719](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/contest-gallery/contest-gallery-2608-authenticated-author-stored-cross-site-scripting)| Stored XSS | (plugin) [terms-descriptions](https://wordpress.org/plugins/terms-descriptions/) <= 3.4.8 |
+
+
